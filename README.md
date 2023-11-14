@@ -3,7 +3,7 @@ THIS PROJECT WAS QUITE INTERESTING AND I ENJOYED ALOT IN DOING THIS PROJECT.
 <br>
 Excel Use Keys
 <br>
- R Key is used for Selecting ( For writing in the cells ) and UnSelecting the cells.
+ R Key is used for Selecting ( For writing in the cells ) and Un-Selecting the cells.
 <br>
  Arrow Keys are used for Moving in the excel sheet.
 <br>
